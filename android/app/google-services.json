@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728328529719",
+    "project_id": "kitapokuma-75231",
+    "storage_bucket": "kitapokuma-75231.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728328529719:android:2c6da6733a7a8837d81cb2",
+        "android_client_info": {
+          "package_name": "com.example.mobilproje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3GbnEG8ookb904adxwina6nU87ZnHW7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
